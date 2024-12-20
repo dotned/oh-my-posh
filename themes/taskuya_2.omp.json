@@ -83,7 +83,7 @@
             "cache_duration": "none"
           },
           "template": "\u2570\u2500",
-          "foreground": "#21c7c7",
+          "foreground": "#0077c2",
           "type": "text",
           "style": "plain"
         },
@@ -93,7 +93,7 @@
             "cache_duration": "none"
           },
           "template": "❯ ",
-          "foreground": "#e0f8ff",
+          "foreground": "#21c7c7",
           "type": "status",
           "style": "plain",
           "foreground_templates": [

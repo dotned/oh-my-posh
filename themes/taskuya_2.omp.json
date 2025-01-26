@@ -63,7 +63,7 @@
           "properties": {
             "cache_duration": "none",
             "home_enabled": true,
-            "display_mode": "files"
+            "display_mode": "context"
           },
           "template": " \ue235 {{ if .Venv }}{{ .Venv }}{{ end }} ",
           "foreground": "#306998",
